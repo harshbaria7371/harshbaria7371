@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Cypress**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harshbaria7371](https://github.com/harshbaria7371)
-
 - 💬 Ask me about **Selenium, Java, Python, Robot Framework**
 
 - 📫 How to reach me **bariaharshg@gmail.com**
